@@ -1,0 +1,13 @@
+:root{
+    --mainbackground-color: hsl(0, 0%, 90%);
+    --togglekeypadbackground-color: hsl(0, 5%, 81%);
+    --screenbackground-color: hsl(0, 0%, 93%);
+    --keyBackground-color: hsl(45, 7%, 89%);
+    --key-shadow: hsl(35, 11%, 61%);
+    --grayishBlue-color: hsl(221, 14%, 31%);
+    --Toggle-shadow-color:  hsl(25, 98%, 40%);
+    --Toggle-color:  hsl(25, 99%, 27%);
+    --White-color:  hsl(0, 0, 100%);
+    --DesaturatedDarkBlue:  hsl(185, 42%, 37%);
+    --DesaturatedDarkBlue-shadow:hsl(185, 58%, 25%)  ;
+}
